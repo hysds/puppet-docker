@@ -1,0 +1,41 @@
+commit 0fd061b423ab7a1fa935048cbb9cfefad4d4b279
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Jan 11 15:46:16 2017 +0000
+
+    update renamed yum package
+
+commit 3baa658d2c4801bd5f1eada5fc6e54be916f7dbd
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Jul 25 21:26:23 2016 +0000
+
+    install docker-compose
+
+commit 2379745dcfd6c7cd81a94e7e024b0a2d6e3bc6c3
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Jul 25 21:16:24 2016 +0000
+
+    download stdlib
+
+commit 4782085ffd78ceb82330220b71c9c543d3399de1
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Jul 25 21:14:23 2016 +0000
+
+    use devicemapper storage driver
+
+commit 670ffc4ff48a03f17b7103f44243208c78f69b16
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon May 9 15:02:35 2016 +0000
+
+    install docker python module
+
+commit 914b710f0fb5d16fbd5996e69db213b1b7af2810
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Fri May 6 17:14:17 2016 +0000
+
+    use overlay storage driver (OverlayFS)
+
+commit 5bcd5c36bc908919462854ae15d429e2fe98c56e
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed May 4 15:00:56 2016 +0000
+
+    initial implementation of docker puppet module
